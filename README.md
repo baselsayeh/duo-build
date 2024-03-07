@@ -14,6 +14,11 @@ step2:
 source buile/cvisetup.sh
 ```
 
+- Duo:
+  ```
+  defconfig cv1800b_milkv_duo_sd
+  ```
+
 - Duo256M:
   ```
   defconfig sg2002_duo_sd
