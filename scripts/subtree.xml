@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="origin" fetch="git@github.com:sophgo/" review="git@github.com:sophgo/"/>
-    <default revision="sg200x-dev" remote="origin" sync-j="4"/>
+    <remote name="origin" fetch="git@github.com:milkv-duo/" review="git@github.com:milkv-duo/"/>
+    <default revision="milkv" remote="origin" sync-j="4"/>
 
     <project name="host-tools" revision="master"/>
     <project name="build"/>
