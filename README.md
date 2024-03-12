@@ -11,7 +11,7 @@ cd duo-build
 step2:
 
 ```
-source buile/cvisetup.sh
+source build/envsetup_soc.sh
 ```
 
 - Duo:
