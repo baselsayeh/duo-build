@@ -23,6 +23,12 @@ source build/envsetup_soc.sh
   ```
   defconfig sg2002_milkv_duo256m_sd
   ```
+
+- Duo256M (ARM):
+  ```
+  defconfig sg2002_milkv_duo256m_arm_sd
+  ```
+
 - DuoS SD:
   ```
   defconfig sg2000_milkv_duos_sd
