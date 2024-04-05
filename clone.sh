@@ -8,7 +8,7 @@ git clone https://github.com/milkv-duo/Lab-Project-FreeRTOS-POSIX           --si
 git clone https://github.com/milkv-duo/fsbl                                 --single-branch
 git clone https://github.com/milkv-duo/opensbi                              --single-branch
 git clone https://github.com/milkv-duo/u-boot-2021.10                       --single-branch
-git clone https://github.com/milkv-duo/linux_5.10                           --single-branch
+git clone https://github.com/baselsayeh/LicheeRV-Nano_linux_5.10            --single-branch "linux_5.10"
 git clone https://github.com/milkv-duo/ramdisk                              --single-branch
 git clone https://github.com/milkv-duo/osdrv                                --single-branch
 git clone https://github.com/milkv-duo/middleware                           --single-branch
