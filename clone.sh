@@ -1,7 +1,7 @@
 #!/bin/bash
 
 git clone https://github.com/milkv-duo/host-tools                 -b master --single-branch
-git clone https://github.com/milkv-duo/build                                --single-branch
+git clone https://github.com/baselsayeh/LicheeRV-Nano_build                 --single-branch "build"
 git clone https://github.com/milkv-duo/freertos freertos                    --single-branch
 git clone https://github.com/milkv-duo/FreeRTOS-Kernel                      --single-branch "freertos/Source"
 git clone https://github.com/milkv-duo/Lab-Project-FreeRTOS-POSIX           --single-branch "freertos/Source/FreeRTOS-Plus-POSIX"
